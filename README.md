@@ -1,6 +1,6 @@
 # Inetex
 
-**TODO: Add description**
+Elixir library for basic Internet functionality. Extends Erlang inet.
 
 ## Installation
 
@@ -17,4 +17,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:inetex]]
         end
-
